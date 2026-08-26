@@ -1,0 +1,63 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * NativeWind 4 + CSS variables for light/dark theming.
+ *
+ * xMind 2026 palette — coral primary, sky accent, ink neutrals.
+ * Mirrors `Mobile/constants/tokens.ts`. Single class — e.g. `bg-canvas`,
+ * `text-primary`, `border-subtle` — resolves to the right value in both
+ * schemes without `dark:` prefixes.
+ */
+:root {
+  /* Surfaces */
+  --color-bg-canvas: #FFFFFF;
+  --color-bg-elevated: #FFFFFF;
+  --color-bg-muted: #F4F4F6;
+  --color-surface: #FFFFFF;
+  --color-surface-secondary: #F6F6F8;
+  --color-surface-raised: #FFFFFF;
+  --color-surface-sunken: #EFEFF3;
+
+  /* Text */
+  --color-text-primary: #0F0F12;
+  --color-text-secondary: #5A5A66;
+  --color-text-tertiary: #94949F;
+  --color-text-inverse: #FFFFFF;
+
+  /* Borders */
+  --color-border-subtle: rgba(15, 15, 18, 0.07);
+  --color-border-strong: rgba(15, 15, 18, 0.14);
+
+  /* Tints */
+  --color-tint-primary: #F0466A;
+  --color-tint-primary-strong: #E11D48;
+  --color-tint-primary-soft: #FB7185;
+  --color-tint-accent: #1B7CE8;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-bg-canvas: #000000;
+    --color-bg-elevated: #0E0E12;
+    --color-bg-muted: #15151B;
+    --color-surface: #0E0E12;
+    --color-surface-secondary: #15151B;
+    --color-surface-raised: #1B1B22;
+    --color-surface-sunken: #08080B;
+
+    --color-text-primary: #F5F5F8;
+    --color-text-secondary: #B6B6C0;
+    --color-text-tertiary: #76767F;
+    --color-text-inverse: #0F0F12;
+
+    --color-border-subtle: rgba(255, 255, 255, 0.08);
+    --color-border-strong: rgba(255, 255, 255, 0.18);
+
+    --color-tint-primary: #F0466A;
+    --color-tint-primary-strong: #E11D48;
+    --color-tint-primary-soft: #FB7185;
+    --color-tint-accent: #60A5FA;
+  }
+}

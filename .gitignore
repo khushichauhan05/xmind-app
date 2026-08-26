@@ -1,0 +1,14 @@
+# Local IDE / editor config
+.claude/
+.vscode/
+.idea/
+./expo/
+
+# Logs
+**/npm-install.log
+**/yarn-error.log
+**/npm-debug.log
+
+# OS
+.DS_Store
+Thumbs.db
