@@ -1,27 +1,26 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aashir-athar/xmind-app/main/Mobile/assets/images/xMind-Logo1.png" alt="xMind logo — open-source React Native social media app built with Expo SDK 54" width="120" />
+<img src="https://raw.githubusercontent.com/khushichauhan05/xmind-app/master/Mobile/assets/images/xMind-Logo1.png" alt="xMind logo — open-source React Native social media app built with Expo SDK 54" width="120" />
 
 # 🧠 xMind
 
-> **Credit:** This project is based on the original [xMind](https://github.com/aashir-athar/xmind-app) by [@aashir-athar](https://github.com/aashir-athar). Full credit to the original author for the source work.
-
 **An open-source React Native social media app for fast, calm, intentional sharing — built end-to-end with Expo SDK 54 and TypeScript.**
 
-[![Stars](https://img.shields.io/github/stars/aashir-athar/xmind-app?style=for-the-badge&logo=github&color=F0466A&labelColor=0E0E12)](https://github.com/aashir-athar/xmind-app/stargazers)
-[![License](https://img.shields.io/github/license/aashir-athar/xmind-app?style=for-the-badge&color=blue&labelColor=0E0E12)](./LICENSE)
-[![Last commit](https://img.shields.io/github/last-commit/aashir-athar/xmind-app?style=for-the-badge&labelColor=0E0E12)](https://github.com/aashir-athar/xmind-app/commits/main)
-[![Top language](https://img.shields.io/github/languages/top/aashir-athar/xmind-app?style=for-the-badge&labelColor=0E0E12)](https://github.com/aashir-athar/xmind-app)
+[![Stars](https://img.shields.io/github/stars/khushichauhan05/xmind-app?style=for-the-badge&logo=github&color=F0466A&labelColor=0E0E12)](https://github.com/khushichauhan05/xmind-app/stargazers)
+[![Last commit](https://img.shields.io/github/last-commit/khushichauhan05/xmind-app?style=for-the-badge&labelColor=0E0E12)](https://github.com/khushichauhan05/xmind-app/commits/master)
+[![Top language](https://img.shields.io/github/languages/top/khushichauhan05/xmind-app?style=for-the-badge&labelColor=0E0E12)](https://github.com/khushichauhan05/xmind-app)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge&labelColor=0E0E12)](#-contributing)
 
 <a href="#-getting-started"><strong>Getting Started</strong></a> ·
 <a href="./zero-to-deploy.md"><strong>Deploy Guide</strong></a> ·
-<a href="https://github.com/aashir-athar/xmind-app/issues"><strong>Report Bug</strong></a> ·
-<a href="https://github.com/aashir-athar/xmind-app/issues/new?labels=enhancement"><strong>Request Feature</strong></a>
+<a href="https://github.com/khushichauhan05/xmind-app/issues"><strong>Report Bug</strong></a> ·
+<a href="https://github.com/khushichauhan05/xmind-app/issues/new?labels=enhancement"><strong>Request Feature</strong></a>
 
 </div>
 
 ---
+
+> **Credit:** This project is based on the original [xMind](https://github.com/aashir-athar/xmind-app) by [@aashir-athar](https://github.com/aashir-athar). Full credit to the original author for the source work. This repository is maintained and extended by [@khushichauhan05](https://github.com/khushichauhan05).
 
 ## Overview
 
@@ -86,7 +85,7 @@ Most social-media tutorials stop at "a list of posts." xMind starts where they e
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/aashir-athar/xmind-app.git
+git clone https://github.com/khushichauhan05/xmind-app.git
 cd xmind-app
 
 # 2. Install backend deps and start the API on http://localhost:5001
@@ -182,7 +181,7 @@ The ranker is deterministic — no `Math.random()`. Same inputs, same order, so 
 - [ ] Push notifications (EAS Build + APNs / FCM)
 - [ ] Web build and an end-to-end test pass with Maestro
 
-Want to own one of these? [Open an issue](https://github.com/aashir-athar/xmind-app/issues/new) and it'll be tagged `good first issue` or `help wanted`.
+Want to own one of these? [Open an issue](https://github.com/khushichauhan05/xmind-app/issues/new) and it'll be tagged `good first issue` or `help wanted`.
 
 ## 🤝 Contributing
 
@@ -200,19 +199,19 @@ Contributions are welcome and encouraged — code or docs, big or small.
 
 Distributed under the MIT License. See [LICENSE](./LICENSE) for details.
 
-## 👤 Author
+## 👤 Maintainer
 
-**Aashir Athar**
+**Khushi Chauhan**
 
-[![GitHub](https://img.shields.io/badge/GitHub-aashir--athar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aashir-athar)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aashirathar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aashirathar/)
-[![X](https://img.shields.io/badge/X_(Twitter)-aashirathar-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/aashirathar)
+[![GitHub](https://img.shields.io/badge/GitHub-khushichauhan05-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khushichauhan05)
+
+**Original author:** [Aashir Athar](https://github.com/aashir-athar) — [GitHub](https://github.com/aashir-athar) · [LinkedIn](https://www.linkedin.com/in/aashirathar/) · [X](https://x.com/aashirathar)
 
 ---
 
 <div align="center">
 
-<sub>Built by <a href="https://github.com/aashir-athar">aashir-athar</a> · If xMind helped you, consider leaving a ⭐ — it genuinely lifts the project's reach.</sub>
+<sub>Original project by <a href="https://github.com/aashir-athar">aashir-athar</a>, maintained by <a href="https://github.com/khushichauhan05">khushichauhan05</a>. If xMind helped you, consider leaving a ⭐.</sub>
 
 <br/><br/>
 
