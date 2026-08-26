@@ -6,18 +6,6 @@
 
 **An open-source React Native social media app for fast, calm, intentional sharing — built end-to-end with Expo SDK 54 and TypeScript.**
 
-[![Stars](https://img.shields.io/github/stars/khushichauhan05/xmind-app?style=for-the-badge&logo=github&color=F0466A&labelColor=0E0E12)](https://github.com/khushichauhan05/xmind-app/stargazers)
-[![Last commit](https://img.shields.io/github/last-commit/khushichauhan05/xmind-app?style=for-the-badge&labelColor=0E0E12)](https://github.com/khushichauhan05/xmind-app/commits/master)
-[![Top language](https://img.shields.io/github/languages/top/khushichauhan05/xmind-app?style=for-the-badge&labelColor=0E0E12)](https://github.com/khushichauhan05/xmind-app)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen?style=for-the-badge&labelColor=0E0E12)](#-contributing)
-
-<a href="#-getting-started"><strong>Getting Started</strong></a> ·
-<a href="./zero-to-deploy.md"><strong>Deploy Guide</strong></a> ·
-<a href="https://github.com/khushichauhan05/xmind-app/issues"><strong>Report Bug</strong></a> ·
-<a href="https://github.com/khushichauhan05/xmind-app/issues/new?labels=enhancement"><strong>Request Feature</strong></a>
-
-</div>
-
 ## Overview
 
 **xMind** is a production-grade, open-source social network you can clone, study, and ship. It's a complete reference for building a modern, cross-platform mobile social media app on **React Native + Expo SDK 54** — strict TypeScript, a server-paginated infinite feed, optimistic mutations, fuzzy on-device search, an on-device personalised feed ranker, real-time-feeling chat, and a token-driven design system that adapts across iOS and Android.
