@@ -18,10 +18,6 @@
 
 </div>
 
----
-
-> **Credit:** This project is based on the original [xMind](https://github.com/aashir-athar/xmind-app) by [@aashir-athar](https://github.com/aashir-athar). Full credit to the original author for the source work. This repository is maintained and extended by [@khushichauhan05](https://github.com/khushichauhan05).
-
 ## Overview
 
 **xMind** is a production-grade, open-source social network you can clone, study, and ship. It's a complete reference for building a modern, cross-platform mobile social media app on **React Native + Expo SDK 54** — strict TypeScript, a server-paginated infinite feed, optimistic mutations, fuzzy on-device search, an on-device personalised feed ranker, real-time-feeling chat, and a token-driven design system that adapts across iOS and Android.
